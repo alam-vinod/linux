@@ -1,0 +1,14 @@
+first we neet to go sshd config file is located at vi /etc/ssh/sshd_config
+here we need to modifiy permitrootlogin yes and passwordathenticaion yes
+service ssh restart do as a another server
+
+scp file ip:location 
+
+i would like to acces my client system by using "ssh ip" enter
+
+ passwor less communication is 
+ ssh-keygen
+
+ copy code past it main server location is ".ssh,authorization keys"
+
+ service ssh restart
