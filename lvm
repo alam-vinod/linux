@@ -1,4 +1,4 @@
-LVM means logical volume management
+****** LVM means logical volume management ******
   here we can connect miltiple hard disk converted into one logical drive
   here we have 
   1. pv (physical volumes)
