@@ -1,0 +1,12 @@
+LVM means logical volume management
+  here we can connect miltiple hard disk converted into one logical drive
+  here we have 
+  1. pv (physical volumes)
+  to
+  2. vg (volume group)
+  to 
+  3. lv (logical group)
+  means we first neet to connect one physical multiple volumes pv having storage each disk 2gb we have 4 pv finally we got 8gb logical volumes
+  here we can pattion the logical  volumes like  how much we need stotage for requirement like 2.8 gb or 5.5gb or 7.6gb
+  here we can do saparate the storage
+  
