@@ -1,0 +1,24 @@
+****** this is the very importent session ******
+SUDO   full abrivation is "super user do" or "subtute user"
+SUDO user can do anythig like he can change all permition as already given permission to existing users
+and he can delete all files finally he is having overall permissions in server.
+
+SUDO user can do normal user as a SUDO user by using visudo in ROOT
+
+suppose user name is vinod
+ex:adduser vinod
+
+after that if we need to give all permissions like as a sudo
+
+here " >> " means enter
+sudo su >> visudo su
+
+in visudo showing three catagories as am show in below 
+1.all permissions {"here user can taking all permissions with password"}
+2.group user {"in group"}
+3.no password reqire {"any password require"}
+
+
+
+
+
